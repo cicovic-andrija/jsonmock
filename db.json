@@ -7,12 +7,12 @@
         {
           "id": 1,
           "label": "Um El Faroud",
-          "cardinal": 1
+          "cardinal": 50
         },
         {
           "id": 2,
           "label": "Tugboat Rozi",
-          "cardinal": 2
+          "cardinal": 49
         }
       ]
     },
@@ -23,7 +23,7 @@
         {
           "id": 3,
           "label": "Zenobia",
-          "cardinal": 3
+          "cardinal": 42
         }
       ]
     }
