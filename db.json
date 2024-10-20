@@ -54,22 +54,8 @@
     "cardinal": 50,
     "max_depth": "24 m"
   },
-  "dive-3": {
-    "id": 3,
-    "label": "Tugboat Rozi",
-    "cardinal": 49,
-    "max_depth": "32 m"
-  },
   "site-1": {
     "id": 1,
     "label": "Um El Faroud Dive Site"
-  },
-  "site-2": {
-    "id": 2,
-    "label": "Tugboat Rozi Dive Site"
-  },
-  "site-3": {
-    "id": 3,
-    "label": "Zenobia Dive Site"
   }
 }
